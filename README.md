@@ -71,7 +71,6 @@ Vous bloquez vos jetons BitConnect entre 120 et 299 jours (en fonction du montan
 
 ![](whitespace.PNG)
 
-Voici un exemple de témoignage:«  Il ne me reste plus rien. J’ai mis tout ce que j’avais dessus, car je leur faisais confiance. Littéralement, toutes les économies de ma famille sont en BCC parce qu’un ami m’a dit que le risque en valait la peine. Êtes-vous en train de me dire que j’ai tout perdu ? 80 000 $ ont disparu ? Je suis tellement en colère. Ma femme ne sait rien encore, elle arrive à la maison bientôt. Qu’est-ce que je suis censé lui dire ?  »
 
 Bitconnect avec une capitalisation de 2,5 milliards est une pure escroquerie.
 Cela fonctionnait avec un système de parrainage. Donc au plus tu affilies des gens dans le projet, aux plus tu touches des intérêts.
@@ -81,8 +80,12 @@ Une arnaque pyramidale en gros.
 
 ![](4.png)
 
+
 Ils n’ont jamais fait de marketing à proprement parler. Ils n’en ont pas eu besoin puisqu’ils avaient ce système de parrainage et d’affiliation qui a poussé des youtubers et twittos à conseiller le BitConnect aux débutants pour toucher leur commission.
 L’entreprise, immatriculée au Vietnam, sera difficile à poursuivre pour les victimes et bien sûr les créateurs ont disparus avec une bonne partie de l'argent.
+
+Voici un exemple de témoignage:«  Il ne me reste plus rien. J’ai mis tout ce que j’avais dessus, car je leur faisais confiance. Littéralement, toutes les économies de ma famille sont en BCC parce qu’un ami m’a dit que le risque en valait la peine. Êtes-vous en train de me dire que j’ai tout perdu ? 80 000 $ ont disparu ? Je suis tellement en colère. Ma femme ne sait rien encore, elle arrive à la maison bientôt. Qu’est-ce que je suis censé lui dire ?  »
+
 
 
 
