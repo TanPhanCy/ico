@@ -38,6 +38,7 @@ Mais l'avantage, c'est que ça permet de lancer pas mal de startups.
 
 Pour le crowfunding, selon le montant investi. On aura en général un simple merci en passant par une copie du produit final voir plus.
 Pour les ICO, on reçoit des tokens (jetons). Dans un premier temps, les tokens sont émis par l’organisation à l’origine de l’ICO, et peuvent être acquis par quiconque lors de l’ICO en échange de cryptomonnaie (le plus souvent, de l’ether ou du bitcoin) ou du fiat.
+![](whitespace.PNG)
 ![](token.jpg)
 ![](whitespace.PNG)
 ## Token
