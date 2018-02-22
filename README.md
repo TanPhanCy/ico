@@ -78,7 +78,6 @@ Une arnaque pyramidale en gros.
 
 ![](3.png)
 
-![](4.png)
 
 
 Ils n’ont jamais fait de marketing à proprement parler. Ils n’en ont pas eu besoin puisqu’ils avaient ce système de parrainage et d’affiliation qui a poussé des youtubers et twittos à conseiller le BitConnect aux débutants pour toucher leur commission.
