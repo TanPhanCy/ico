@@ -28,7 +28,7 @@ On aura plus donc pour avantage pour le crowfunding traditionnel une plus grande
 Le crowdfunding est régularisé par les gouvernements. Il ya donc un contrôle du gouvernement aux USA. Et en France notamment.
 Pour les ICO, il n'y a pour le moment pas de contrôle du gouvernement là dessus. Donc le risque est assez elevé pour perdre l'argent investi dans des faux projets ou autres fraudes.
 
-### 3. VIsion du projet
+### 3. Vision du projet
 
 Pour le crowdfunding, on présente en général un prototype du projet en développement. L'ICO pas forcément.
 Elle va plutôt présenter un projet qui n'est pas encore concrétiser. Les investisseurs auront tendance à être prudent.
