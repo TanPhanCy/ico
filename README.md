@@ -48,7 +48,10 @@ BitConnect était une obscure plateforme qui promettait  : une rente fixe grâce
 ### Fonctionnement
 
 Vous achetez des Bitcoins avec ces Bitcoins, vous achetez des tokens BitConnect (vous pouvez le faire sur plusieurs plateformes, mais plus de 90% des échanges s’effectuent sur leur plateforme bitconnect.co ).
-Vous bloquez vos jetons BitConnect entre 120 et 299 jours (en fonction du montant investi). Ce placement s’effectue uniquement sur leur plateforme bitconnect.co. Précision importante : vous bloquez la valeur de vos BitConnect en dollars et non en jetons BitConnect
+Vous bloquez vos jetons BitConnect entre 120 et 299 jours (en fonction du montant investi). Ce placement s’effectue uniquement sur leur plateforme bitconnect.co. Précision importante : vous bloquez la valeur de vos BitConnect en dollars et non en jetons BitConnect.
+
+![](11.PNG)  
+
 Voici un exemple de témoignage:«  Il ne me reste plus rien. J’ai mis tout ce que j’avais dessus, car je leur faisais confiance. Littéralement, toutes les économies de ma famille sont en BCC parce qu’un ami m’a dit que le risque en valait la peine. Êtes-vous en train de me dire que j’ai tout perdu ? 80 000 $ ont disparu ? Je suis tellement en colère. Ma femme ne sait rien encore, elle arrive à la maison bientôt. Qu’est-ce que je suis censé lui dire ?  »
 
 Bitconnect avec une capitalisation de 2,5 milliards de dollars est une escroquerie. 
