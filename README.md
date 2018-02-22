@@ -88,4 +88,4 @@ Voici un exemple de témoignage:«  Il ne me reste plus rien. J’ai mis tout ce
 
 
 
->« Ne prends pas les gens pour des cons, mais n’oublie pas qu’ils le sont  ».
+« Ne prends pas les gens pour des cons, mais n’oublie pas qu’ils le sont  ».
